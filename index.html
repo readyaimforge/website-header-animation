@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ready Aim Forge – header background</title>
+<style>
+  :root { --bg:#041a2e; --lime:#c5f000; --cyan:#00c8ff; --text:#fff; }
+  * { box-sizing: border-box; }
+  body { margin:0; background:var(--bg); color:var(--text); font-family: system-ui, "Helvetica Neue", Arial, sans-serif; }
+
+  /* ---- The header + its animated background ---- */
+  .hero { position:relative; min-height:100vh; overflow:hidden; isolation:isolate; }
+
+  .hero-bg { position:absolute; inset:0; z-index:-2; background:
+      radial-gradient(60% 50% at 50% 0%, rgba(31,107,255,.45), transparent 70%),
+      radial-gradient(80% 30% at 50% 100%, rgba(0,200,255,.18), transparent 70%),
+      var(--bg); }
+  .hero-bg canvas { opacity:0; transition:opacity 1.2s ease; }
+  .hero-bg.is-ready canvas { opacity:1; }
+
+  /* keeps the copy readable over the brightest parts of the animation */
+  .hero::after { content:""; position:absolute; inset:0; z-index:-1; pointer-events:none;
+    background: linear-gradient(90deg, rgba(4,26,46,.55) 0%, rgba(4,26,46,.15) 45%, rgba(4,26,46,.55) 100%); }
+
+  /* ---- Demo content (stand-in for the real header) ---- */
+  nav { display:flex; justify-content:space-between; align-items:center; max-width:1060px; margin:0 auto; padding:14px 20px;
+        border-bottom:1px solid rgba(255,255,255,.06); }
+  nav .logo { font-weight:800; color:var(--lime); }
+  nav ul { display:flex; gap:28px; align-items:center; list-style:none; margin:0; padding:0; font-size:13px; font-weight:600; }
+  nav a { color:#fff; text-decoration:none; }
+  nav .cta { background:var(--lime); color:#041a2e; padding:10px 16px; border-radius:6px; }
+  .hero-copy { max-width:1060px; margin:0 auto; padding:80px 20px; display:grid; grid-template-columns:1fr 1.6fr; gap:60px; }
+  .eyebrow { font:700 10px/1 ui-monospace, monospace; letter-spacing:.08em; color:var(--cyan); }
+  h1 { font-size:clamp(28px,4.2vw,42px); line-height:1.1; margin:14px 0 0; font-weight:600; }
+  .pillars b { font-size:56px; display:block; }
+  .pillars p { font-size:13px; opacity:.75; max-width:220px; }
+  @media (max-width:768px){ .hero-copy{ grid-template-columns:1fr; gap:24px; padding-top:40px; } nav ul li:not(:last-child){display:none;} }
+  .spacer { height:120vh; }
+</style>
+</head>
+<body>
+  <header class="hero">
+    <div class="hero-bg" id="hero-bg"></div>
+    <nav>
+      <span class="logo">ready aim forge</span>
+      <ul><li><a href="#">Work</a></li><li><a href="#">What we do</a></li><li><a href="#">Clients</a></li><li><a class="cta" href="#">Start a project →</a></li></ul>
+    </nav>
+    <div class="hero-copy">
+      <div class="pillars"><b>3</b><p>Pillars in every project: Ready for speed, Aim for strategy, Forge for craft.</p></div>
+      <div>
+        <div class="eyebrow">READY. AIM. FORGE.</div>
+        <h1>Good businesses deserve work as sharp as the people behind them. For over twenty years we have designed brands, websites, exhibitions and packaging for a short list of clients.</h1>
+      </div>
+    </div>
+  </header>
+  <div class="spacer"></div>
+
+  <script type="module">
+    // Load the animation after first paint so it never blocks page load.
+    const el = document.getElementById('hero-bg');
+    const start = async () => {
+      try {
+        const { initHeaderBg } = await import('./src/header-bg.js');
+        initHeaderBg(el);
+      } catch (err) { console.warn('Header animation unavailable, using CSS fallback.', err); }
+    };
+    ('requestIdleCallback' in window) ? requestIdleCallback(start, { timeout: 1500 }) : setTimeout(start, 200);
+  </script>
+</body>
+</html>
