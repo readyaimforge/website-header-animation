@@ -1,0 +1,241 @@
+# FAQs by page
+
+See REVIEW.md for items to confirm before publishing.
+
+## https://hydroponics.agency/
+
+**What does We Know Hydro do?**
+
+We Know Hydro is a creative and marketing agency for hydroponics, plant nutrition, lighting, cannabis and counterculture brands. We design product labels, packaging, logos and branding, websites and e-commerce, brochures and leaflets, flyers, posters and ads, and catalogues and price lists. We have worked in the hydroponics industry since 2004.
+
+**Why choose a hydroponics specialist instead of a general design agency?**
+
+We aren't a general design agency learning hydroponics as we go. We have lived and worked in this industry for over 20 years, creating nutrient brands, publishing hydroponic magazines and working with manufacturers and distributors worldwide. We understand the terminology, the science and what growers expect, which means faster projects, fewer revisions and no need to explain your products to us.
+
+**How do your five project levels work?**
+
+Most of our work falls into one of five levels for each service, from level one (quick and focused) to level five (the most in-depth). Time defines the outcome: the more time we invest, the deeper we can develop ideas and refine the result, but not every project needs that. Each level links the ambition of the project to the time we dedicate to it, so you only invest what your goal needs.
+
+**What kinds of product label design do you offer?**
+
+We offer five label levels. Level five is a full suite with each label individually designed. Level four is a full suite on a unified brand system. Level three is a single label for a new product or brand foundation. Level two is a single label within your existing brand guidelines. Level one is artwork recreation, rebuilding legacy, lost or AI-generated labels so they are print ready.
+
+**What is the difference between individually designed labels and a unified brand system?**
+
+With individually designed labels, each product in the range gets its own unique design, which suits premium brands and technically diverse ranges. With a unified brand system, core design elements stay consistent while colours, product names and key information change between products. That is the most efficient and scalable option for nutrient ranges and makes it easy to add new products later.
+
+**Can you recreate old, lost or AI-generated labels and artwork?**
+
+Yes. If your original artwork is lost, damaged or no longer print ready, we rebuild your existing labels to modern production standards while preserving your brand's appearance. We also rebuild AI-generated labels and advertising artwork: we correct distortions and incorrect proportions, enhance detail, adjust formats and deliver high-resolution, print-ready files.
+
+**What types of brochures and leaflets do you design?**
+
+We design brochures and leaflets at five levels: double-sided leaflets, four-page simple leaflets, fold-out brochures of 4 to 8 pages, template-led branded brochures, and detailed product brochures with feed charts and technical specifications. They suit in-store handouts, orders, trade shows, distributors and digital sharing.
+
+**Do you design flyers, posters and adverts?**
+
+Yes. Our flyer, poster and advertising creatives run from structured layouts using your supplied brand assets, through simple infographics and illustration-led creative, to AI concept reconstruction and deep concept creative developed from scratch. A flyer is two-sided, so the front can be created at any level while the reverse is typically a structured panel with product details, feeding charts and distributor information.
+
+**Can you design price lists and catalogues?**
+
+Yes. We structure catalogue and price list projects into five levels, from a single-sided price sheet and a double-sided trade sheet to a branded price list, a structured template-led catalogue with SKUs and price breaks, and a complex multi-layout catalogue where each spread is designed individually. They suit retailers, distributors and international partners.
+
+**Do you build websites and online stores?**
+
+Yes. Our website projects run from an essential one-product site up to a full brand experience, with five levels: essential product site, fast-to-market Shopify store, professional product site, structured catalogue site for large ranges, and a no-limits site with custom artwork and multi-language capability. We typically build level two sites on Shopify so you can take payments from day one.
+
+**Do you work with small brands as well as large ones?**
+
+Yes. We love working with small to medium companies and thrive on a challenge. You may not feel like the biggest brand, but with us you will look like one. Whether you are launching your first hydro product or expanding an established nutrient range, we scale the project to fit.
+
+**Do you work with medical cannabis and counterculture brands?**
+
+Yes. We design for hydroponics, plant nutrition, medical marijuana and counterculture brands, including packaging, brochures and advertising for the sector. Our industry background means we understand the audience and the style they respond to.
+
+**Do you design exhibition and trade show materials?**
+
+Yes. Our work for clients includes exhibition design, pop-up expo displays and roll-up banners, alongside the brochures, posters and price lists used at trade shows. We can design these to match the rest of your brand.
+
+**Do you work with brands and distributors outside the UK?**
+
+Yes. We have worked with manufacturers and distributors worldwide, including clients in the UK, the USA, Canada and Europe.
+
+**Do you offer ongoing design on a monthly retainer?**
+
+Yes. Set your monthly budget and we handle the rest, giving you ongoing design support from a team that already knows your industry, without the hassle of briefing a new supplier each time.
+
+**How do I start a project?**
+
+Email hello@weknowhydro.com or use the contact page to tell us what you need, whether that is a single label, a full range, a brochure, a catalogue or a website. We will talk through the scope with you and match it to the right level.
+
+## https://hydroponics.agency/projects/shogun-fertilisers/
+
+**Who is Shogun Fertilisers?**
+
+SHOGUN Fertilisers is a UK plant nutrition brand with a research-led liquid fertiliser range. We have worked with them since 2013, taking the brand from identity and labels through to advertising, literature, exhibitions and a Shopify website.
+
+**What was the brief for the Shogun brand?**
+
+Shogun needed to break into a competitive hydroponics market where shelf presence matters, and make its liquid fertiliser range stand out. Our solution was a Japanese warrior theme that gave the labels a distinctive, visually striking look.
+
+**What did We Know Hydro create for Shogun?**
+
+We created the branding and logo, character design, labels and packaging for the range, advertising and point-of-sale, brochures and literature, exhibition design, and a multilingual Shopify website with custom modules, site-wide imagery, blog design, a feed chart calculator, FAQ setup, a store locator and downloadable resources.
+
+**Which products did you design labels for?**
+
+The range includes CalMag, DragonForce, Geisha, HydroBloom, HydroGrow, Katana, PKWarrior, SamuraiCoco, Silicon, Start, SumoBoost, TerraBloom, TerraGrow and ZenZym. Each product has its own distinct design within a cohesive family, which is our level five full suite approach.
+
+**What results did the Shogun branding achieve?**
+
+SUMO Boost was an overnight success, estimated to account for 30% of UK Boost sales within twelve months of launch. Shogun now holds a strong position in a sector once considered impenetrable.
+
+## https://hydroponics.agency/projects/zip-zag-brand-bags/
+
+**Who is Zip-Zag?**
+
+Zip-Zag is the maker of patented Dual-Lock, odour-proof, reusable storage bags. Founded in 2005 in North America, it sells in the USA, Canada and the UK. We have worked with Zip-Zag since 2019.
+
+**What did We Know Hydro do for Zip-Zag?**
+
+We created branding, lead imagery, brochures and literature, and an end-to-end Shopify website with custom modules, site-wide imagery, blog design and upload, and downloadable resources. We also designed a poster series and a medical cannabis brochure.
+
+**How was AI used in the Zip-Zag project?**
+
+Early creative concepts were started with DALL-E 3 through ChatGPT. We then refined those concepts, adding texture, clarity and detail to improve the realism of the lead images. This is the kind of AI concept reconstruction we offer to make AI artwork print and web ready.
+
+**How did the new brand and website help Zip-Zag's sales?**
+
+The redesign, new artwork and lead imagery elevated Zip-Zag's brand presentation significantly. Their sales team used the refresh as the basis for a successful Australian tour, and the company plans to extend that momentum into European markets.
+
+**Can you build a Shopify store like Zip-Zag's for my brand?**
+
+Yes. We design and develop Shopify stores, including custom modules, imagery, blog design and downloadable resources, as in the Zip-Zag project. Our website levels run from a fast-to-market Shopify store up to a full brand experience, depending on how much your project needs.
+
+## https://hydroponics.agency/projects/dutch-garden-supplies-europe/
+
+**Who is Dutch Garden Supplies (DGS) Europe?**
+
+Dutch Garden Supplies is a hydroponics distributor that has been a trusted partner to growers since 2013, with warehouses across four European countries. We have worked with DGS since 2013.
+
+**What was the brief for the DGS rebrand?**
+
+After expanding into Europe, DGS wanted a brand refresh that matched its ambition and its premium product range. It began as a long-term rebrand, starting with a new logo and colour palette, and needed to unify a diverse supplier portfolio under one flexible, uncluttered visual system.
+
+**What did We Know Hydro create for DGS?**
+
+We created the branding, logo and identity, brochures and literature, exhibition design including a pop-up expo, a WordPress website, apparel design, business cards and brand design slides.
+
+**Can you design a brand for a distributor that carries many supplier brands?**
+
+Yes. For DGS we built a flexible identity that sits comfortably alongside many partner brands, strengthening recognition without cluttering the range. It also helps the company stand out at trade shows and compete for supplier and grower relationships.
+
+## https://hydroponics.agency/projects/new-millenium-nutrients/
+
+**Who is New Millennium Nutrients?**
+
+New Millennium Nutrients is a US plant nutrition and fertiliser manufacturer founded in the early 2000s, with its first market in Colorado and nearby states. We have worked with them since 2015.
+
+**What was the brief for New Millennium Nutrients?**
+
+The client wanted to expand beyond the US. We were asked to build on the brand's hand-drawn visual style, inspired by a tattoo artist, while making it look more current and professional.
+
+**How did you modernise a hand-drawn brand style?**
+
+We kept the hand-drawn character of the artwork and added photorealism, then produced a professional suite of assets around it, including labels, a website, brochures and other sales materials.
+
+**What did We Know Hydro deliver for New Millennium Nutrients?**
+
+We delivered branding, logo design, lead artwork, labels and packaging, advertising and point-of-sale, brochures and literature, exhibition design including a roll-up banner, and a WordPress website.
+
+**What were the results of the New Millennium Nutrients redesign?**
+
+The redesign helped the client be taken seriously as an international fertiliser manufacturer, supporting expansion first nationally and then worldwide. The brand is now enjoying success in the United Kingdom and Europe, with colourful, original labels standing out in a busy market.
+
+## https://hydroponics.agency/projects/ecothrive/
+
+**What is Ecothrive?**
+
+Ecothrive is a product range from Hopcrop Ltd, a Sheffield-based manufacturer and distributor of home gardening and hydroponic products. The range includes Charge, Biosys, Neutralise and Life-Cycle, plus a coco range, pots, beds and irrigation systems. We have worked with Hopcrop since 2013.
+
+**What did We Know Hydro create for Ecothrive?**
+
+We created the logo and identity, packaging, brochures and literature, advertising, social media and exhibition work.
+
+**What is the Ecothrive branding style?**
+
+The branding is microbe-inspired, with a playful, approachable tone and a child-like friendliness that appeals to both professional and amateur gardeners. The simplicity and natural ingredients of the products are central to the messaging.
+
+**What is Ecothrive Charge?**
+
+Ecothrive Charge Insect Frass is an organic growth-media booster made from mealworm castings, launched by Hopcrop in 2013. Its success is credited to its simplicity, its effectiveness and an eye-catching label.
+
+**How has the Ecothrive brand performed?**
+
+Charge became a standard stock item in hydroponics stores, and the range appeals to both indoor growers and outdoor vegetable gardeners. Products have also won awards in the UK's Giant Vegetable Growers community for the largest crops grown.
+
+## https://hydroponics.agency/projects/dutch-lighting-innovations/
+
+**Who is Dutch Lighting Innovations?**
+
+Dutch Lighting Innovations (DLI) is a plant lighting company, a start-up formed in 2016 with over 25 years of development experience behind its products.
+
+**What was the brief for Dutch Lighting Innovations?**
+
+DLI was redefining the lighting fixture and needed a professional brand image to do justice to its cutting-edge products. The goal was a brand identity that reflected the new product range.
+
+**What did We Know Hydro create for DLI?**
+
+We project-managed DLI's entire portfolio, covering branding, logo and identity, packaging design, brochures and literature, product photography, video production, exhibition design, web development and online marketing.
+
+**What were the results of the DLI branding?**
+
+DLI built a market-leading position and broke a monopoly held by established competitors. The company built its name and brand quickly and was sold after six years of trading, with the acquisition in 2021.
+
+**Can you brand a new lighting or hydroponic technology business?**
+
+Yes. We have launched lighting brands from a standing start, handling identity, packaging, literature, photography, video and exhibitions so that a young company can look like an established one.
+
+## https://hydroponics.agency/projects/optex-lighting/
+
+**Who is Optex Lighting?**
+
+Optex Lighting is an established hydroponic lighting distributor in the USA and Canada that moved into manufacturing its own range of LED fixtures. We have worked with Optex since 2021.
+
+**What was the brief for the Optex rebrand?**
+
+Optex wanted to move away from distributing other companies' products and start manufacturing its own range of LED fixtures, aiming to become the leading LED manufacturer in the US medical horticulture industry in an already crowded market. That called for a professional rebrand.
+
+**What did We Know Hydro create for Optex Lighting?**
+
+We created the branding, logo and identity, technical blogs, instructional literature, brochures, posters and a WordPress website. The logo features Optex's unique lighting spectrum.
+
+**Can you write technical content for lighting and horticulture products?**
+
+Yes. For Optex we produced technical blogs and instructional literature alongside the design work, drawing on our industry knowledge to explain features such as the Transitional Cycle Shift, which uses DualSpec fixtures with the Optex Controller to mimic the sun's spectral changes at sunrise and sunset.
+
+**What were the results of the Optex rebrand?**
+
+The work helped Optex become a leading light in the industry as it moved from distributing other brands to manufacturing its own LED fixtures.
+
+## https://hydroponics.agency/projects/hydromag/
+
+**What is Hydromag?**
+
+Hydromag was a hydroponics print magazine and the UK's longest-running hydroponics publication. We worked on it from 2014 to 2018.
+
+**What did We Know Hydro do for Hydromag?**
+
+We handled branding, logo and identity, publishing, copywriting, photography and exhibition work, including front-cover designs for 18 issues and double-page spreads and feature layouts such as a coco test, a lighting special and a powered nutrients feature.
+
+**What was the design challenge on Hydromag?**
+
+The magazine often featured products from different brands in the same article, and the supplied assets were frequently low quality. Our aim was to bring these elements together into consistent layouts while keeping design quality high.
+
+**How was Hydromag received?**
+
+Hydromag was voted number one hydroponics magazine in an independent public vote. Its editorial mix combined serious informational features with humorous, data-rich content, presented as an industry first.
+
+**Does We Know Hydro have publishing and video experience?**
+
+Yes. We helped create the lifestyle and hydroponics magazine concept with Urban Garden Magazine in 2007 and produced Hydroshow TV, which aired on UK national television and has more than 1.3 million YouTube views.
